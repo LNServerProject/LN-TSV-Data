@@ -1,2 +1,2 @@
-# -LN-TSV-Data
+# LN-TSV-Data
 The data from ranobe-mori
